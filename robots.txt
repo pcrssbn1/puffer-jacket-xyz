@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://puffer-jacket.xyz/sitemap.xml
